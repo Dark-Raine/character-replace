@@ -1,0 +1,23 @@
+{
+  "name": "character-replace",
+  "version": "1.0.0",
+  "description": "replaces hyphens with empty spaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dark-Raine/character-replace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dark-Raine/character-replace/issues"
+  },
+  "homepage": "https://github.com/Dark-Raine/character-replace#readme",
+  "devDependencies": {
+    "@actions/core": "^1.5.0",
+    "@actions/github": "^5.0.0"
+  }
+}
