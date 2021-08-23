@@ -2,8 +2,8 @@ name: 'character-replace'
 description: 'replaces hyphens within string with an empty character and sets it to $P_NAME'
 inputs:
   gh-name: #id of input
-  description: 'name to parse'
-  required: true
+    description: 'name to parse'
+    required: true
 runs:
   using: 'node12'
   main: 'index.js'
